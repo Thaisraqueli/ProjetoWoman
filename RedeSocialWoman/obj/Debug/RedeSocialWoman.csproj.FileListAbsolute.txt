@@ -1,0 +1,12 @@
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\bin\Debug\RedeSocialWoman.exe.config
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\bin\Debug\RedeSocialWoman.exe
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\bin\Debug\RedeSocialWoman.pdb
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\obj\Debug\RedeSocialWoman.csproj.AssemblyReference.cache
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\obj\Debug\RedeSocialWoman.Apresentacao.BemVindo.resources
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\obj\Debug\RedeSocialWoman.Apresentacao.CadastreSe.resources
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\obj\Debug\RedeSocialWoman.Login.resources
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\obj\Debug\RedeSocialWoman.Properties.Resources.resources
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\obj\Debug\RedeSocialWoman.csproj.GenerateResource.cache
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\obj\Debug\RedeSocialWoman.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\obj\Debug\RedeSocialWoman.exe
+C:\Users\Admin1\Documents\Projetos\carrefour\RedeSocialWoman\RedeSocialWoman\obj\Debug\RedeSocialWoman.pdb
